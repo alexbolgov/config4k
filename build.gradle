@@ -61,11 +61,11 @@ afterEvaluate {
 }
 
 publish {
-    userOrg = 'config4k'
+    userOrg = 'alexbolgov'
     repoName = 'config4k'
     groupId = 'io.github.config4k'
     artifactId = 'config4k'
-    publishVersion = '0.4.1'
+    publishVersion = '0.4.2'
     description = 'A Typesafe Config wrapper for Kotlin'
     website = 'https://github.com/config4k/config4k'
     licences = ['Apache-2.0']
